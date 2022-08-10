@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "todo": "Wake up",
+      "id": 1
+    },
+    {
+      "todo": "Brush teeth",
+      "id": 2
+    },
+    {
+      "todo": "breakfast",
+      "id": 3
+    },
+    {
+      "todo": "Get ready for office",
+      "id": 7
+    },
+    {
+      "todo": "Go to office",
+      "id": 8
+    },
+    {
+      "todo": "asdfgghjjklaa",
+      "id": 22
+    }
+  ]
+}
